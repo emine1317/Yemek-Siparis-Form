@@ -1,0 +1,16 @@
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\bin\Debug\MutfakPerisi.exe.config
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\bin\Debug\MutfakPerisi.exe
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\bin\Debug\MutfakPerisi.pdb
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.Form1.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.Properties.Resources.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.exe
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.pdb
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.Form3.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.Form4.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.FormGiriş.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.YöneticiGiriş.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.sil.resources
+C:\Users\Casper\Desktop\Database\MutfakPerisi\MutfakPerisi\obj\Debug\MutfakPerisi.sepet.resources
